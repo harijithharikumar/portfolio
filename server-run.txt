@@ -1,0 +1,8 @@
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+🚀 Portfolio server running on http://0.0.0.0:3000
+[Contact Form Received] From: Test User (test@test.com) - undefined: Hello
+[2m11:57:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/harij/OneDrive/Documents/My Portfolio/server-run.txt[22m
+[2m11:57:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/harij/OneDrive/Documents/My Portfolio/npm-install-output.txt[22m
+[2m11:57:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/harij/OneDrive/Documents/My Portfolio/npm-install-output2.txt[22m
+[2m11:57:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/harij/OneDrive/Documents/My Portfolio/server-run.txt[22m
+[Contact Form Received] From: HARI (mynameisunknown590@gmail.com) - Hiring Inquiry: AI & Software Engineering Role: Hi Harijith, we reviewed your portfolio and would like to invite you for an interview for an AI / Software Engineering role at our company.
